@@ -1,9 +1,12 @@
-Link do Projeto: https://projeto1-gutofm.vercel.app
+# ReadMe CP5
 
-Integrantes do Projeto:
+####Link do Projeto: https://projeto1-gutofm.vercel.app
 
-•Felipe Cavalcante Bressane -- rm97688
-•Isabelle de Carvalho Cruz -- rm97717
-•Gabriel Sugayama Mazza -- rm99265
-•Gustavo Fernandes González Magalhães -- rm98943
-•Augusto Fisco Milreu -- rm98245
+##Integrantes do Projeto:
+
+##### Projeto produzido por:
++Felipe Cavalcante Bressane -- rm97688
++Isabelle de Carvalho Cruz -- rm97717
++Gabriel Sugayama Mazza -- rm99265
++Gustavo Fernandes González Magalhães -- rm98943
++Augusto Fisco Milreu -- rm98245
