@@ -1,8 +1,5 @@
 # ReadMe CP5
-
 ####Link do Projeto: https://projeto1-gutofm.vercel.app
-
-##Integrantes do Projeto:
 
 ##### Projeto produzido por:
 +Felipe Cavalcante Bressane -- rm97688
