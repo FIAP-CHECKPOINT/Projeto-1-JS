@@ -1,5 +1,9 @@
 import { } from 'react'
+<<<<<<< HEAD
+import  {BrowserRouter, Routes, Route} from 'react-router-dom'
+=======
 import {BrowserRouter, Routes, Route } from 'react-router-dom'
+>>>>>>> 707b866dedde2497f2014a759aa29c3dee201840
 import Nav from './Nav'
 import Home from './Home'
 import Produtos from './Produtos'
